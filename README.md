@@ -1,4 +1,4 @@
-# Ex 02 Django ORM Web Application
+# Ex 03 Django ORM Web Application
 ## DATE: 04-09-24
 
 ## AIM
@@ -45,8 +45,8 @@ admin.site.register(Players,EmployeeAdmin)
 
 ## OUTPUT
 
-![image](https://github.com/rahulramakrishnann/Exp-2-ORM--web/assets/143045415/b2e404af-f088-492e-b606-6ebffece8f02)
-![image](https://github.com/rahulramakrishnann/Exp-2-ORM--web/assets/143045415/94c3d887-112e-4b9b-b83a-7365148fb61f)
+![web 2](https://github.com/user-attachments/assets/8ee88e46-174e-430e-afca-027ed2b8a8cb)
+
 
 
 ## RESULT
